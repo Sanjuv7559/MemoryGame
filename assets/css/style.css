@@ -9,9 +9,10 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
+    background-image: url('../images/bg.jpg');
 }
 h1, h2 {
-    color: #333;
+    color: ivory;
 }
 .game-container {
     display: grid;
